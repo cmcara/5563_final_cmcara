@@ -1,4 +1,3 @@
 # 5563_final_cmcara
 
-
-This is the repository for my GEOG 5563 Final Project using NEON LiDAR and reflactance data for k-means clustering.
+This is the repository for my GEOG 5563 Final Project. Using NEON data for the Canopy Height Model, NDVI reflectance, and Digital Terrain Model, I calculated a vegetation structure clustering analysis using K-Means. My project focusses on the heavily forested and mountainous Rocky Mountain National Park but can be modified for any NEON site with sufficient data. I am in the processing of improving the workflow to better suit the wide range of data products NEON has to offer. Analysis with data at such a high resolution can dramatically improve earth science modelling but presents computation and storage challenges that I work towards reducing here.
